@@ -12,14 +12,10 @@ free -m
 iostart
 
 cat /proc/meninfo
-cat /proc/cpuinfo
-lsb_release -a
+cat /proc/cpuin
 
+echoo "  this is the new branch " 
 
-cat/etc/os release
-sar -u
-nproc
-ls
 
 
 
